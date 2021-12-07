@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaalprogrammer&show_icons=true&locale=en" alt="vishaalprogrammer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaalprogrammer&" alt="vishaalprogrammer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalSinghParmar2001&" alt="VishalSinghParmar2001" /></p>
 
