@@ -8,7 +8,7 @@ VishalSinghParmar2001" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Well until this very day, I'm still learning**
 
 - 💬 Ask me about **Java/Python/C/C++ And Data Structure**
 
