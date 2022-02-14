@@ -18,9 +18,9 @@ VishalSinghParmar2001" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal-singh-parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-singh-parmar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-singh-parmar-a2ab13213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-singh-parmar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:16616545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16616545" height="30" width="40" /></a>
-<a href="https://kaggle.com/vishalsinghparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalsinghparmar" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vishalsinghparmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalsinghparmar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucb9htohz-pavievi93levlq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucb9htohz-pavievi93levlq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishaalsingh2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishaalsingh2001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishaalsingh2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishaalsingh2001" height="30" width="40" /></a>
